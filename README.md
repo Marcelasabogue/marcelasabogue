@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="500" src="http://www.closerver.com/wp-content/uploads/2022/10/banner_img-1.gif">
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing, IA and data**
 
 - 📫 How to reach me **marcelasabogue@ieee.org**
 
