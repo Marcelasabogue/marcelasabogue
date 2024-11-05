@@ -6,9 +6,10 @@
 
 <img align="right" alt="Coding" width="500" src="http://www.closerver.com/wp-content/uploads/2022/10/banner_img-1.gif">
 
-- 🌱 I’m currently learning **Cloud Computing, IA and data**
+- 🌱 I’m currently learning **Data, Cloud Computing and IA **
 
 - 📫 How to reach me **marcelasabogue@ieee.org**
+- Certifications: DP-900, AZ-900, IA-900
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
