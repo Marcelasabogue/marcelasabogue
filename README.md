@@ -9,7 +9,10 @@
 - 🌱 I’m currently learning **Data, Cloud Computing and IA**
 
 - 📫 How to reach me **marcelasabogue@ieee.org**
-- Certifications: **DP-900, AZ-900, IA-900**
+#### Certifications
+[![AZ-900](https://images.credly.com/size/240x240/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://learn.microsoft.com/en-us/users/marcelasabogal-3518/credentials/5d6b94d65bf76fd2?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![IA-900](https://images.credly.com/size/240x240/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://learn.microsoft.com/es-es/users/marcelasabogal-3518/credentials/1309defc799c5a16?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![DP-900](https://images.credly.com/size/240x240/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://learn.microsoft.com/en-us/users/marcelasabogal-3518/credentials/cdd8cdab77d3d150?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
